@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Editor</string>
+    <string name="editor">打开编辑器</string>
+    <string name="title_text">自定义</string>
+    <string name="title_finish">完成</string>
+    <string name="text_share">共享</string>
+    <string name="text_private">私密</string>
+</resources>
